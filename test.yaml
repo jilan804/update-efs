@@ -5,7 +5,7 @@ metadata:
   name: foo
   namespace: class
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: foo
